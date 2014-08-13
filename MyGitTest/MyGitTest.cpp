@@ -8,6 +8,7 @@ int main(int argc, char* argv[])
 	printf("---------------------\r\n");
 	printf("My GIT Test\r\n");
 	printf("Hello World!\n");
+	printf("end of Hello world!\r\n");
 	printf("=====================\r\n");
 	return 0;
 }
