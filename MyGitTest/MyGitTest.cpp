@@ -10,6 +10,7 @@ int main(int argc, char* argv[])
 	printf("Hello World!\n");
 	printf("end of Hello world!\r\n");
 	printf("My name is yxch!\r\n");
+	printf("My First\r\n");
 	printf("=====================\r\n");
 	return 0;
 }
