@@ -24,7 +24,7 @@ StdAfx.h, StdAfx.cpp
     These files are used to build a precompiled header (PCH) file
     named MyGitTest.pch and a precompiled types file named StdAfx.obj.
 
-
+version master
 /////////////////////////////////////////////////////////////////////////////
 Other notes:
 
