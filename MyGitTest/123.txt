@@ -1,2 +1,7 @@
 my name is yxch!
 and who are you !:wq
+int main(void)
+{
+	my name is yxch!
+	and who are youe!
+}
